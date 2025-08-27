@@ -1,8 +1,10 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: "Noto Sans", sans-serif;
-  }
+    font-family: roboto;
+    color: black;
+    background-color: white;
+  }  
 
  /* Font control. */
   h1 {
